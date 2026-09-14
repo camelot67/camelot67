@@ -1,3 +1,5 @@
+Hello World. Don't expect many folks to ever read this, but seeing as this is my first GitHub repo, I've included some of my favorite quotes as digital launching points for future endeavors. Rock on.  
+
 "We can't solve problems by using the same kind of thinking we used when we created them." - Albert Einstein
 
 "You know you have achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away." - Antoine deSaint Exupery
