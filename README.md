@@ -1,4 +1,4 @@
-It's 2026 and I am using Visual SourceSafe. It's time.
+It's 2026 and I'm using Visual SourceSafe. It's time.
 
 Don't expect many folks to read this, but seeing as it's my first GitHub repo, I've included some of my favorite quotes as launching points for future endeavors.  
 
