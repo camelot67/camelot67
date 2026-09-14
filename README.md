@@ -1,6 +1,6 @@
 It's 2026 and several of my projects are in ... Visual SourceSafe. It's time.
 
-Don't expect many folks to read this, but seeing as it's my first GitHub repo, I've included some of my favorite quotes as launching points for future endeavors.  
+Don't expect any folks to read this, but seeing as it's my first GitHub repo, I've included some of my favorite quotes as launching points for future endeavors.  
 
 "We can't solve problems by using the same kind of thinking we used when we created them." - Albert Einstein
 
